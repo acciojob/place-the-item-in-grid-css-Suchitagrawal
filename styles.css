@@ -5,13 +5,13 @@
 	padding: 0px;
 }
 .holder{
-	width: 420px;
-	height: 420px;
+	width: 220px;
+	height: 220px;
 	margin:20px auto;
 	background-color: yellow;
 	display: grid;
-	grid-template-columns: repeat(2,200px);
-	grid-template-rows: repeat(2,200px);
+	grid-template-columns: repeat(2,100px);
+	grid-template-rows: repeat(2,100px);
 	gap: 20px;
 	box-sizing: border-box;
 	overflow: hidden;
